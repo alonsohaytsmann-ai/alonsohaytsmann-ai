@@ -22,13 +22,12 @@ Estudante do 1º ano de **Desenvolvimento de Sistemas** no **IFSP – Campus Sã
 
 ### Projeto em Destaque
 
-#### [NTFL]([[https://github.com/SEU-USUARIO/NTFL](https://github.com/alonsohaytsmann-ai/NTFL)](https://github.com/alonsohaytsmann-ai/NTFL))
-Jogo desenvolvido para a banca de avaliação de jogos do **IFSP – Campus São Paulo**.
+#### [NTFL](https://github.com/alonsohaytsmann-ai/NTFL)
+Jogo *point-and-click* desenvolvido na **Godot Engine** para a banca de avaliação de jogos do **IFSP – Campus São Paulo**, onde o jogador conclui tarefas baseadas nos princípios de **TI Verde** (*Green IT*).
 - **Stack:** Godot Engine, GDScript
-- **Sobre o projeto:** *Jogo **point-and-click** desenvolvido na **Godot Engine** para a banca de avaliação de jogos do **IFSP – Campus São Paulo**, onde o jogador precisa concluir uma série de tarefas baseadas nos princípios de **TI Verde** (*Green IT*).*
+- **Destaque:** Código, cenas e mecânicas desenvolvidos 100% manualmente, sem auxílio de inteligência artificial.
 
 ---
 
 ### Contato
-- **GitHub:** Alonso Haytsmann(https://github.com/SEU-USUARIO)
 - **E-mail:** alonso.haytsmann@gmail.com
