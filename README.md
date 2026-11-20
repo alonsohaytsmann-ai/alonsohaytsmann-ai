@@ -1,16 +1,34 @@
-## Hi there 👋
+# Alonso Freitas Haytsmann
 
-<!--
-**alonsohaytsmann-ai/alonsohaytsmann-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 1º ano de **Desenvolvimento de Sistemas** no **IFSP – Campus São Paulo**, com foco nos fundamentos de programação e no **desenvolvimento de jogos**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Foco Atual
+- Consolidação da base em lógica de programação, estruturação de código e resolução de problemas.
+- Desenvolvimento de jogos na **Godot Engine**, explorando organização de cenas, sinais, controle de estado e mecânicas de gameplay.
+
+---
+
+### Tecnologias
+
+| Área | Linguagens e Ferramentas |
+| :--- | :--- |
+| **Desenvolvimento de Jogos** | Godot Engine (GDScript) |
+| **Programação Geral** | C, Python |
+| **Web** | HTML |
+
+---
+
+### Projeto em Destaque
+
+#### [NTFL](https://github.com/SEU-USUARIO/NTFL)
+Jogo desenvolvido para a banca de avaliação de jogos do **IFSP – Campus São Paulo**.
+- **Stack:** Godot Engine, GDScript
+- **Sobre o projeto:** *Jogo **point-and-click** desenvolvido na **Godot Engine** para a banca de avaliação de jogos do **IFSP – Campus São Paulo**, onde o jogador precisa concluir uma série de tarefas baseadas nos princípios de **TI Verde** (*Green IT*).*
+
+---
+
+### Contato
+- **GitHub:** [github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
+- **E-mail:** alonso.haytsmann@gmail.com
